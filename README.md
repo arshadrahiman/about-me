@@ -1,2 +1,0 @@
-flutter web 
-deploy
