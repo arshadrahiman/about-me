@@ -34792,7 +34792,7 @@ A.Vc.prototype={
 $0(){},
 $S:0}
 A.Bb.prototype={
-T(a){var s=null,r=t.E,q=A.ae7(A.kc(A.a([A.ee("About Me",A.dk(s,s,B.ay,s,s,s,s,s,s,s,s,32,s,s,B.b2,s,s,!0,s,s,s,s,s,s,s,s)),A.eD(s,15,s),A.ee("I am a passionate Flutter developer with 3+ years of experience in building mobile applications.",A.dk(s,s,B.bg,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.eD(s,20,s),A.ee("I specialize in creating beautiful, responsive, and user-friendly apps using Flutter and Dart. My goal is to make mobile experiences more intuitive and seamless.",A.dk(s,s,B.cN,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],r),B.aD,B.ar),1),p=A.eD(s,s,40),o=A.Bu(20)
+T(a){var s=null,r=t.E,q=A.ae7(A.kc(A.a([A.ee("About Me",A.dk(s,s,B.ay,s,s,s,s,s,s,s,s,32,s,s,B.b2,s,s,!0,s,s,s,s,s,s,s,s)),A.eD(s,15,s),A.ee("I am a passionate Flutter developer with 6+ years of experience in building mobile applications.",A.dk(s,s,B.bg,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.eD(s,20,s),A.ee("I specialize in creating beautiful, responsive, and user-friendly apps using Flutter and Dart. My goal is to make mobile experiences more intuitive and seamless.",A.dk(s,s,B.cN,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],r),B.aD,B.ar),1),p=A.eD(s,s,40),o=A.Bu(20)
 return A.kd(s,A.ajQ(A.a([q,p,A.kd(s,s,B.y,s,s,new A.e6(s,A.ahx(B.fh,new A.lL("assets/profile.jpg",s,s),s),s,o,s,s,B.be),s,200,s,s,s,s,200)],r),B.aM,B.ar,B.er),B.y,B.j,s,s,s,s,s,new A.b8(40,40,40,40),s,s,s)}}
 A.H9.prototype={
 T(a){var s=null,r=t.E
