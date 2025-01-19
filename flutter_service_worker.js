@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "ef1ef37e3bb6252f147a6259ba95d8cf",
+const RESOURCES = {"flutter_bootstrap.js": "ba676027145719eec6039028a5e0c6d4",
 "version.json": "b0a2c87b57f6646cb3a59698fb9fc619",
 "index.html": "2b83a86947092ba1e02c3c4f2fb9d3fd",
 "/": "2b83a86947092ba1e02c3c4f2fb9d3fd",
-"main.dart.js": "39557f18c0514421268ad8f640fa760b",
+"main.dart.js": "74d2d6db078c35833acfe3b8ae301aff",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -25,7 +25,7 @@ const RESOURCES = {"flutter_bootstrap.js": "ef1ef37e3bb6252f147a6259ba95d8cf",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "4008601a7665102dfa765629812092de",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "688e4c4202045f4a4fd9755a72ab20cb",
-"assets/fonts/MaterialIcons-Regular.otf": "f4b2eed42c36660481d2f4c5172a2581",
+"assets/fonts/MaterialIcons-Regular.otf": "89ed28d33ec00764eb2b34c28511d934",
 "assets/assets/images/google_developer.jpeg": "9a200ffdb25b4edb8656baca076b81b3",
 "assets/assets/icons/xcode.png": "651833f53ba0e1c76587d4aee018ca5e",
 "assets/assets/icons/roadradar.png": "37cfd75ce95dd76e37de257bc365ea5e",
