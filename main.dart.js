@@ -46531,7 +46531,7 @@ case 3:o=p.a
 if(o.ha$){q=!1
 s=1
 break}o=o.ay
-o.sn(0,B.j.bz(o.gn(0)+1,8))
+o.sn(0,B.j.bz(o.gn(0)+1,7))
 q=!0
 s=1
 break
@@ -46540,7 +46540,7 @@ return A.O($async$$0,r)},
 $S:80}
 A.LW.prototype={
 L(a){var s=null,r=$.c1(),q=t.Wo
-q=new A.GS(A.b(["Tech Lead","Senior Flutter Developer","Full Stack Developer","Software Engineer","Mobile App Developer","Web Developer","Project Manager","Entrepreneur"],t.s),A.aKt(0),A.b([],t.EH),A.dQ(s,s,s,t.X,t.xW),new A.ec(q),new A.ec(q),!1,!1)
+q=new A.GS(A.b(["Senior Flutter Developer","Full Stack Developer","Mobile App Developer","Web Developer","Backend Developer","QA & Automation Engineer","Entrepreneur"],t.s),A.aKt(0),A.b([],t.EH),A.dQ(s,s,s,t.X,t.xW),new A.ec(q),new A.ec(q),!1,!1)
 q.lo()
 return new A.fZ(new A.aaW(A.rd(r,q,!1,s,t.wc)),s)}}
 A.aaW.prototype={
