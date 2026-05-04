@@ -45952,7 +45952,7 @@ $S:0}
 A.ahP.prototype={
 $0(){var s=window
 s.toString
-B.hr.ww(s,"mailto:arshadrahiman@gmail.com","_blank")
+B.hr.ww(s,"mailto:arshadrahman.dev@gmail.com","_blank")
 return null},
 $S:0}
 A.ahQ.prototype={
@@ -45964,7 +45964,7 @@ $S:0}
 A.ahR.prototype={
 $0(){var s=window
 s.toString
-B.hr.ww(s,"https://instagram.com/arshadrahiman","_blank")
+B.hr.ww(s,"https://instagram.com/arshad_rahiman","_blank")
 return null},
 $S:0}
 A.ahS.prototype={
